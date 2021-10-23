@@ -1,0 +1,27 @@
+{
+    "name": "team-profile",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+      "lib": "lib"
+    },
+    "scripts": {
+      "team": "node index.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/thehaqua/team-viewer.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/thehaqua/team-viewer/issues"
+    },
+    "homepage": "https://github.com/thehaqua/team-viewer#readme",
+    "dependencies": {
+      "inquirer": "^8.1.2",
+      "jest": "^27.0.6"
+    }
+  }
