@@ -1,7 +1,5 @@
 # team-viewer
 
-Deployed URL:
-
 Github URL: https://github.com/thehaqua/team-viewer
 
 # Description
